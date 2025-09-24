@@ -16,7 +16,7 @@ using System.Linq;
 
 public class MeshPickerEditor : EditorWindow
 {
-    [MenuItem("Tools/Mesh Point Picker &m")]
+    [MenuItem("Tools/Mesh测点距工具 &m")]
     static void Open() => GetWindow<MeshPickerEditor>("MeshPicker");
 
     #region 状态字段
