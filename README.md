@@ -1,5 +1,3 @@
-# MarkerMeter
-
 # MarkerMeter for Unity Editor  
 **一键标注场景中任意网格点 + 实时测距**
 
